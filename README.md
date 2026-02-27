@@ -1,7 +1,8 @@
 # AU Connect Web Dev
 
-## May Thu Khin 6611281
-## Hsu Shwe Yaung 6611665
+## Members
+May Thu Khin 6611281
+Hsu Shwe Yaung 6611665
 
 ## About our project
 AU-Connet is a web application that allows users to connect, manage events, and interact through a modern web platform.
@@ -22,3 +23,6 @@ Backend: Next.js API Routes ( REST API )
 Database: MongoDB 
 Deployment: Virtual Machine 
 
+## Screenshot
+https://ibb.co/zTv6C8bY
+https://ibb.co/LDhpMHcP
