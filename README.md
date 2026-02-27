@@ -21,7 +21,6 @@ Basic Role Sys
 Frontend: Next.js 
 Backend: Next.js API Routes ( REST API ) 
 Database: MongoDB 
-Deployment: Virtual Machine 
 
 ## Screenshot
 https://ibb.co/zTv6C8bY
