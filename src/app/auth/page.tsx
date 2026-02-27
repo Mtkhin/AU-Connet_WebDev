@@ -1,9 +1,17 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { Suspense, useMemo, useState } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 
 export default function AuthPage() {
+  return (
+    <Suspense fallback={<div className="p-6 text-center">Loading...</div>}>
+      <AuthContent />
+    </Suspense>
+  );
+}
+
+function AuthContent() {
   const params = useSearchParams();
   const router = useRouter();
 
